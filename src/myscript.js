@@ -20,4 +20,7 @@ document.querySelector("input[name=raddr1]").value = ""
 document.querySelector("input[name=raddr2]").value = ""
 
 //적립금 사용 클릭
-document.querySelector("a img[src='/V2/_skin/ownerclan_v2/_img/order/btn_reservecopy.gif'").click()
+document.querySelector("a img[src='/V2/_skin/ownerclan_v2/_img/order/btn_reservecopy.gif']").click();
+
+//결제하기
+// document.querySelector("a img[src='/V2/_skin/ownerclan_v2/_img/order/btn_payment.gif']").click();
